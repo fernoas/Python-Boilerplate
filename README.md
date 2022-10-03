@@ -7,7 +7,7 @@ Utilizar boilerplate book
     Criação de seu repositório a partir do template
     Clonando o projeto:
 
-$ git clone https://github.com/<github-username>/<nome-do-seu-projeto><br>
+$ git clone https://github.com/<github-username>/<nome-do-seu-projeto> <br>
 $ python3.9 -m venv venv <br>
-$ source venv/bin/activate
-$ pip install -r requirements.txt
+$ source venv/bin/activate <br>
+$ pip install -r requirements.txt <br>
